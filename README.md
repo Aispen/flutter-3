@@ -1,6 +1,6 @@
-# praktinis_3
+# Flutter-03
 
-3 Flutter application.
+3rd Flutter application.
 
 ## Getting Started
 
